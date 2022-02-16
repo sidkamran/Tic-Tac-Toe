@@ -1,2 +1,2 @@
-# Tic-Tac-Toe
+# NS-JS-Project
 Created with CodeSandbox
